@@ -7,7 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		485E6C372ABF8C1E00563894 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 485E6C362ABF8C1E00563894 /* main.swift */; };
+		482A58CD2AC0456C00BC8475 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 482A58CC2AC0456C00BC8475 /* main.swift */; };
+		485E6C372ABF8C1E00563894 /* 1041. Robot Bounded In Circle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 485E6C362ABF8C1E00563894 /* 1041. Robot Bounded In Circle.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -23,8 +24,9 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		482A58CC2AC0456C00BC8475 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		485E6C332ABF8C1E00563894 /* leetcode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = leetcode; sourceTree = BUILT_PRODUCTS_DIR; };
-		485E6C362ABF8C1E00563894 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		485E6C362ABF8C1E00563894 /* 1041. Robot Bounded In Circle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1041. Robot Bounded In Circle.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +59,8 @@
 		485E6C352ABF8C1E00563894 /* leetcode */ = {
 			isa = PBXGroup;
 			children = (
-				485E6C362ABF8C1E00563894 /* main.swift */,
+				485E6C362ABF8C1E00563894 /* 1041. Robot Bounded In Circle.swift */,
+				482A58CC2AC0456C00BC8475 /* main.swift */,
 			);
 			path = leetcode;
 			sourceTree = "<group>";
@@ -120,7 +123,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				485E6C372ABF8C1E00563894 /* main.swift in Sources */,
+				482A58CD2AC0456C00BC8475 /* main.swift in Sources */,
+				485E6C372ABF8C1E00563894 /* 1041. Robot Bounded In Circle.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
